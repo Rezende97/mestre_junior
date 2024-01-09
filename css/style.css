@@ -955,13 +955,13 @@ line-height: 35px;
    
    /* Handle */
    ::-webkit-scrollbar-thumb {
-     background: rgb(130, 130, 231);; 
+     background: rgb(130, 130, 231);
      border-radius: 5px;
    }
    
    /* Handle on hover */
    ::-webkit-scrollbar-thumb:hover {
-     background: rgb(130, 130, 231);; 
+     background: rgb(130, 130, 231);
    }
 
 
